@@ -5,4 +5,4 @@ title: Home
 
 # Welcome to my blog
 
-[First Post](first-post)
+[First Post](/2025/07/21/first-post.html)
